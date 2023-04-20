@@ -1,0 +1,21 @@
+{
+  "name": "nice-blue",
+  "displayName": "nice-blue",
+  "description": "theme",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.77.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "theme",
+        "uiTheme": "vs-dark",
+        "path": "./themes/theme-color-theme.json"
+      }
+    ]
+  }
+}
